@@ -2,12 +2,15 @@
 #!/bin/python3
 #import requests
 
+<<<<<<< HEAD
 
 #import requests
 #import json
 #from time import sleep
 #import zipfile
 
+=======
+>>>>>>> main
 import requests
 import json
 from time import sleep
